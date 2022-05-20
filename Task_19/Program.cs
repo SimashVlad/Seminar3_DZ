@@ -12,6 +12,7 @@ else
     Console.WriteLine("Не палиндром");
 }
 
+// рабочая версия с массивом для 5 чисел
 
 /* Console.WriteLine("Введите размерность массива = ");
 int n = int.Parse(Console.ReadLine());
