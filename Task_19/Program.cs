@@ -16,20 +16,20 @@ else
 
 /* Console.WriteLine("Введите размерность массива = ");
 int n = int.Parse(Console.ReadLine());
-int[] masiv = new int[n];
+int[] massiv = new int[n];
 
 for (int i = 0; i < n; i++)
 {
     Console.Write(i + " элемент = ");
-    masiv[i] = int.Parse(Console.ReadLine());
+    massiv[i] = int.Parse(Console.ReadLine());
 }
-if (masiv[4] == masiv[0] & masiv[3] == masiv[1]) // (пока не разобрался как сделать универсально)
-    if (masiv[index] == masiv[index2])
+if (massiv[4] == massiv[0] & massiv[3] == massiv[1]) // (пока не разобрался как сделать универсально)
+    if (massiv[index] == massiv[index2])
     {
-        Console.WriteLine("Число является полиндромом");
+        Console.WriteLine("Число является палиндромом");
     }
     else
     {
-        Console.WriteLine("Число не является полиндромом");
+        Console.WriteLine("Число не является палиндромом");
     } */
     
