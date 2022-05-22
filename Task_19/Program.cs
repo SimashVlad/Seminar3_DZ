@@ -3,7 +3,7 @@
 23432 -> да
 12821 -> да */
 
-// Универсальная программа
+// Универсальная программаz
 Console.WriteLine("Введите число");
 var n = (Console.ReadLine());
 if (n.Reverse().SequenceEqual(n)) Console.WriteLine("Палиндром");
